@@ -1,8 +1,7 @@
-Connect 4 API
+# Connect 4 API
 
 ![Swagger](/media/swagger.PNG)
 
-==============================
 
 
 What Is This?
