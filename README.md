@@ -1,4 +1,7 @@
 Connect 4 API
+
+![Swagger](/media/swagger.PNG)
+
 ==============================
 
 Deployed at: https://aditya-connect4.herokuapp.com/docs
