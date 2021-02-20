@@ -52,8 +52,5 @@ Requirements
 
  
 
-### Mandatory Task (For 2+ Years of Experience)
-
-- Host/Deploy this API somewhere & give the link in a .txt file (Link must be live for at least 2 weeks from Submission Date)
 
 
